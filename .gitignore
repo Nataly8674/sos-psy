@@ -1,0 +1,94 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.idea
+.tmproj.bak
+.vs/
+.vscode/
+*.iml
+*.ipr
+
+# Flutter/Dart
+/build/
+/ios/Pods/
+/ios/Flutter/App.framework
+/ios/Flutter/engine
+/ios/Flutter/flutter_assets/
+/ios/Flutter/Generated.xcconfig
+/ios/.symlinks/
+/ios/Runner/GeneratedPluginRegistrant.*
+/android/app/build/
+/android/.gradle/
+/android/local.properties
+/android/key.properties
+/.dart_tool/
+/.packages
+/pubspec.lock
+/windows/flutter/ephemeral
+/windows/flutter/generated_*.h
+/windows/flutter/generated_*.cc
+/windows/flutter/generated_plugins.cmake
+/windows/runner/Debug/
+/windows/runner/Release/
+/windows/runner/Profile/
+/linux/flutter/ephemeral
+/linux/flutter/generated_*.h
+/linux/flutter/generated_*.cc
+/linux/flutter/generated_plugins.cmake
+/macos/flutter/ephemeral
+/web/
+
+# Arquivos de dados locais
+/data/
+/backend/data/
+
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
