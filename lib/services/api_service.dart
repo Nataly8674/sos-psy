@@ -7,7 +7,7 @@ import '../models/appointment.dart';
 import '../models/entrada_diario.dart';
 
 class ApiService {
-  static const String baseUrl = 'sos-psy-production.up.railway.app'; // Ajuste se rodar em device
+  static const String baseUrl = 'https://sos-psy-production.up.railway.app'; // Ajuste se rodar em device
   static String? _token;
   static User? currentUser;
 
